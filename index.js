@@ -1,0 +1,10 @@
+var usurName = prompt("Ismingizni kiriting: ");
+console.log(usurName);
+var usurSurname = prompt("Familiyangizni kiriting: ");
+console.log(usurSurname);
+var usurAge = prompt("Yoshingizni kiriting: ");
+console.log(usurAge);
+var usurEmail = prompt("Elektron pochtangizni kiriting: ");
+console.log(usurEmail);
+var usurParol = prompt("Parol kiriting(8ta simvoldan iborat bo'lsin): ");
+console.log(usurParol);
